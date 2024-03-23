@@ -7,11 +7,13 @@ I'm passionate about coding and interested in UX, learning new things, and softw
 - 💻 I **enjoy** coding.
 - 🌱 I’m currently learning JavaScript, Python, and Dart for web and mobile development.
 
-## Languages
+## Languages and Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vue.js)
+![React.js](https://img.shields.io/badge/-React.js-000000?style=flat&logo=react)
 
 ## Tools
 
