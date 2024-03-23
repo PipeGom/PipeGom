@@ -25,6 +25,9 @@ I'm passionate about coding and interested in UX, learning new things, and softw
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code)
 
+# GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PipeGom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact Information
 
  [![Email](https://img.shields.io/badge/Email-lusifelipegogi44%40gmail.com-blue)](mailto:lusifelipegogi44@gmail.com)
