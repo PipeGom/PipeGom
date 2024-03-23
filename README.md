@@ -24,3 +24,10 @@ I'm passionate about coding and interested in UX, learning new things, and softw
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code)
+
+## Contact Information
+
+ [![Email](https://img.shields.io/badge/Email-lusifelipegogi44%40gmail.com-blue)](mailto:lusifelipegogi44@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/luis-felipe-gomez-giraldo-b9a990196/)
+
+
